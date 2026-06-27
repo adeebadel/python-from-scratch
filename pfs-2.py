@@ -18,4 +18,4 @@ print(name,age,city)
 
 name = "Adeeb"
 dream = "goat"
-print("name : ", name)
+print("name:", name, "dream:", dream)
