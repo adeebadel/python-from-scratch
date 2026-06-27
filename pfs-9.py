@@ -1,0 +1,20 @@
+num = int(input("Enter a number : "))
+print(num*num)
+print(num**3)
+
+num1 = int(input("Enter price of item 1 : "))
+num2 = int(input("Enter price of item 2 : "))
+num3 = int(input("Enter price of item 3 : "))
+
+print("total bill = ",num1+num2+num3)
+
+num1 = float(int(input("Enter the 1st number : ")))
+num2 = float(int(input("Enter the 2nd number : ")))
+num3 = float(int(input("Enter the 3rd number : ")))
+print("Addition = ", num1+num2+num3)
+print("Subtraction = ", num1-num2-num3)
+print("Multiplication = ", num1*num2*num3)
+print("Division = ",num1/num2,num2/num3,num1/num3)
+print("power = ",num1**num2,num2**num3,num1**num3)
+print("remainder = ",num1//num2,num2//num3,num1//num3)
+print("modulus = ",num1%num2%num3)
