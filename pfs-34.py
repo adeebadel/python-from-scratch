@@ -1,0 +1,11 @@
+print("hello")
+print("Python is fun!")
+print(10)
+print(20)
+print(30)
+
+print("=====================")
+print("Welcome to python")
+print("Lets build something")
+print("Created by Adeeb")
+print("=====================")
